@@ -1,0 +1,24 @@
+Windows 10 or Windows Server 2016 - Go to Start, enter About your PC, and then select About your PC. Look under PC for Edition to find out your version and edition of Windows.
+Windows 8.1 or Windows Server 2012 R2 - Swipe in from the right edge of the screen, tap Settings, and then tap Change PC settings. (If you're using a mouse, point to the lower-right corner of the screen, move the mouse pointer up, click Settings, and then click Change PC settings.). Next, Tap or click PC and devices, and then tap or click PC info. Look under Windows for the version and edition.
+Windows 8 or Windows Server 2012 - On the Start screen, type Computer, press and hold or right-click Computer, and then tap or click Properties. Then look under Windows edition for the version.
+
+
+Windows 7 and Windows Server 2008 R2 - Click Start or the Windows logo right click Computer then click Properties. Look in System.
+
+
+Windows Vista and Windows Server 2008 - Click Start or the Windows logo depending on what you have then click Control Panel->System and Maintenance->System.
+
+
+You could also try Clicking Start or the Windows logo then if you have a "Start Seach" field type winver then Double-click winver.exe from the results. If you had a run box instead of search just click Run type winver click OK.
+
+
+Windows XP and Windows Server 2003 - Click Start -> RunType winver then click OK. You could also try typing msinfo32 or sysdm.cpl if you like. Lastly you might try typing dxdiag. Windows might prompt you to verify drivers click No.
+
+
+Windows 95/98/ME - Click Start-> Settings->Control Panel double-click System click General tab. Locate version number under system heading. Click here for chart to match version number to release.
+
+
+Windows CE - Click StartSettings Control Panelclick the System applet. If that does not work you might just have to look in the General Tab or somewhere in the System Tab.
+
+
+You can also find out if your computer is running a 32-bit or 64-bit version of Windows in the same areas listed above.

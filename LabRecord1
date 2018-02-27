@@ -1,0 +1,40 @@
+mca003@mcalab-debian:~$ date +%x -%H:%S :%N
+date: invalid option -- '%'
+Try 'date --help' for more information.
+mca003@mcalab-debian:~$ date +'%x -%H:%S :%N'
+Monday 22 January 2018 -14:43 :225206165
+mca003@mcalab-debian:~$ date +%H:%S :%N'
+> 
+> ^C
+mca003@mcalab-debian:~$ date +'%H:%S :%N'
+
+14:32 :028861729
+mca003@mcalab-debian:~$ date +'%H:%S :%N %r'
+14:56 :572814098 02:07:56 PM IST
+mca003@mcalab-debian:~$ 
+*************************************************************************************
+mca003@mcalab-debian:~$ cal
+    January 2018      
+Su Mo Tu We Th Fr Sa  
+    1  2  3  4  5  6  
+ 7  8  9 10 11 12 13  
+14 15 16 17 18 19 20  
+21 22 23 24 25 26 27  
+28 29 30 31           
+                      
+mca003@mcalab-debian:~$ ^C
+mca003@mcalab-debian:~$ 
+*************************************************************************************
+mca003@mcalab-debian:~$ cal 3 2022
+     March 2022       
+Su Mo Tu We Th Fr Sa  
+       1  2  3  4  5  
+ 6  7  8  9 10 11 12  
+13 14 15 16 17 18 19  
+20 21 22 23 24 25 26  
+27 28 29 30 31        
+                      
+mca003@mcalab-debian:~$ 
+
+********************************************************************************************
+
